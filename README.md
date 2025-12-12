@@ -166,3 +166,7 @@ Quick tips
 Put the dashboard screenshot in images/adidas-dashboard.png so it renders in the README.
 
 If you want I can generate a concise LICENSE file and a short CONTRIBUTING.md for the repo.
+dashbord
+<img width="982" height="482" alt="adidas2025-12-12 142331" src="https://github.com/user-attachments/assets/022a7e8d-cb66-4851-930e-9ad60a1b5e64" />
+
+
